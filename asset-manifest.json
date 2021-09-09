@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/green-wallet-website/static/js/app.008b36a8.chunk.js",
+    "app.js.map": "/green-wallet-website/static/js/app.008b36a8.chunk.js.map",
+    "runtime~app.js": "/green-wallet-website/static/js/runtime~app.e38d989a.js",
+    "runtime~app.js.map": "/green-wallet-website/static/js/runtime~app.e38d989a.js.map",
+    "static/js/2.4862a1df.chunk.js": "/green-wallet-website/static/js/2.4862a1df.chunk.js",
+    "static/js/2.4862a1df.chunk.js.map": "/green-wallet-website/static/js/2.4862a1df.chunk.js.map",
+    "favicon-16.png": "/green-wallet-website/favicon-16.png",
+    "favicon-32.png": "/green-wallet-website/favicon-32.png",
+    "favicon.ico": "/green-wallet-website/favicon.ico",
+    "index.html": "/green-wallet-website/index.html",
+    "manifest.json": "/green-wallet-website/manifest.json",
+    "serve.json": "/green-wallet-website/serve.json",
+    "static/js/2.4862a1df.chunk.js.LICENSE.txt": "/green-wallet-website/static/js/2.4862a1df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.e38d989a.js",
+    "static/js/2.4862a1df.chunk.js",
+    "static/js/app.008b36a8.chunk.js"
+  ]
+}
